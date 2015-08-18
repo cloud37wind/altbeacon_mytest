@@ -43,7 +43,7 @@ public class MonitoringActivity extends Activity {
 			   logToDisplay(str+","+beacon.getId2()+":"+beacon.getId3());	
 			}
 			else
-			   logToDisplay("无"+str+"Beacon.");
+			   logToDisplay("没有"+str+"Beacon.");
 		}
     	
     }; 
