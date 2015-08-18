@@ -44,7 +44,7 @@ public class MonitoringActivity extends Activity {
 			}
 			else
 			   logToDisplay("无"+str+"Beacon.");
-			分支test
+//			注释test
 		}
     	
     }; 
